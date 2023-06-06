@@ -1,0 +1,28 @@
+{
+    "projects":{
+        "Capstone Project" : {
+            "desc":"This project involved working with a fortune 500 company on creating new data aggregation solutions for their support services.",
+            "skills":"The main skills in this project were around communication and design, as I used Figma to create mockups of a potential solution and communicated between team members and points of contact to figure out the optimal solution to develop. This also all culminated in a written report and a full final presentation to classmates and the client.",
+            "skillsList": ["Presentational skills", "Technical writing", "Figma"],
+            "resourceText": "Seeing as the company is very prevalent, I will most likely not share the resources publicly."
+        },
+        "Bellini's Counter Project": {
+            "desc":"This project worked with a restaurant franchise Bellini's Counter in the area and a Toast Integration service Appfront to develop an online ordering solution within the clients scope.",
+            "skills":"The main skills that I implemented in this project include communication between multiple parties including the client and development team to get across technical ideas of the application as well as resource design for promotional materials.",
+            "skillsList": ["Multiparty communication", "Resource design", "Presentational skills"],
+            "resources": ["https://belliniscounter.appfront.app/"]
+        },
+        "Pizzi": {
+            "desc": "The Pizzi Project was a project from my Web systems course where I collaborated with 5 other students to make an application for a music social media service. Work included working with the Spotify API as well as Google oAuth for authentication.",
+            "skills": "The main skills developed here were working with the APIs involved and continuing to develop experience in the XAMPP stack.",
+            "skillsList": ["XAMPP stack", "APIs", "Authentication", "PHP", "MySQL", "CSS/Bootstrap"],
+            "resourceText": "Considering the project is private and shared between several parties including a professor, I will not share the project code unless specifically asked in which point I would clone it."
+        },
+        "AWS Training Materials": {
+            "desc": "The AWS training materials projects were several projects which I worked on while studiying for the AWS developer associate certification. This included work using React with S3 for automatic deployment of a single page React app and configuring an API with API Gateway and Lambda functions.",
+            "skills": "The main skills developed were around AWS services such as S3, Lambd functions, and API Gateway which also included a lot of permissions work with IAM, but there was also some extra work including some very simple React work.",
+            "skillsList": ["AWS services", "S3", "Lambda", "API Gateway", "React"],
+            "resources": ["https://github.com/Rileyh2/API-Gateway-Lambda-Lab", "https://github.com/Rileyh2/Simple-S3-React-Lab"]
+        }
+    }
+}
